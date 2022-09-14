@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/GreenRzhuman.png</file>
+        <file>img/RedRzhuman.png</file>
+        <file>img/SmallGreenRzhuman.png</file>
+        <file>img/SmallRedRzhuman.png</file>
+        <file>img/GreenRzhuman.ico</file>
+    </qresource>
+</RCC>

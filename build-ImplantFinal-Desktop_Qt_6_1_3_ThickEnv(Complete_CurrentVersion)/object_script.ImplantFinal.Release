@@ -1,0 +1,10 @@
+release/bodyofcalculation.o
+release/hope.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/qrc_img.o
+release/moc_bodyofcalculation.o
+release/moc_hope.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o
